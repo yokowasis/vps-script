@@ -1,0 +1,1 @@
+yum -y install wget;wget http://software.virtualmin.com/gpl/scripts/install.sh;sh ./install.sh
