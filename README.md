@@ -4,7 +4,7 @@ I was reading some thread on LET about what is the easiest panel installation, a
 
 So I decided to post this.
 
-##Centos 7
+## Centos 7
 
 | Name             | : | Command                                             |
 |------------------|---|-----------------------------------------------------|
@@ -17,5 +17,5 @@ So I decided to post this.
 
 I will probably adding more script in the future. If you have any useful script you want to add to my website, feel free to contact me.
 
-> Disclaimer :
+> ## Disclaimer :
 > The installation script for each respective stack is not created by me. I am just gathering them together.  I will not be held responsible if you break your VPS, or Exploding Your House when you try to install this script. 
