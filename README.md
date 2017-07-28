@@ -6,6 +6,8 @@ So I decided to post this.
 
 ##Centos 7
 
+| Name             | : | Command                                             |
+|------------------|---|-----------------------------------------------------|
 | Centos Web Panel | : | `bash < (curl -s centos7.panel.web.id/cwp/)`        |
 | VestaCP          | : | `bash < (curl -s centos7.panel.web.id/vestacp/)`    |
 | Lemp Stack       | : | `bash < (curl -s centos7.panel.web.id/lemp/)`       |
