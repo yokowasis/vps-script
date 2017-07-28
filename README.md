@@ -14,6 +14,7 @@ So I decided to post this.
 | Kloxo - MR       | : | `bash <(curl -s centos7.panel.web.id/kloxomr/)`     |
 | OpenVPN          | : | `bash <(curl -s centos7.panel.web.id/openvpn/)`     |
 | Virtualmin       | : | `bash <(curl -s centos7.panel.web.id/virtualmin/)`  |
+| VNC Server       | : | `bash <(curl -s centos7.panel.web.id/vnc/)`  		 |
 
 I will probably adding more script in the future. If you have any useful script you want to add to my website, feel free to contact me.
 
