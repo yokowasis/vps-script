@@ -6,13 +6,13 @@ Here is a list of VPS Scripts that can be installed on centos7. The main reason 
 
 | Name             | : | Command                                             |
 |------------------|---|-----------------------------------------------------|
-| Centos Web Panel | : | `bash <(curl -s centos7.panel.web.id/cwpanel/)`     |
-| VestaCP          | : | `bash <(curl -s centos7.panel.web.id/vestacp/)`     |
-| Lemp Stack       | : | `bash <(curl -s centos7.panel.web.id/lemp/)`        |
-| Kloxo - MR       | : | `bash <(curl -s centos7.panel.web.id/kloxomr/)`     |
-| OpenVPN          | : | `bash <(curl -s centos7.panel.web.id/openvpn/)`     |
-| Virtualmin       | : | `bash <(curl -s centos7.panel.web.id/virtualmin/)`  |
-| VNC Server       | : | `bash <(curl -s centos7.panel.web.id/vnc/)`  		 |
+| Centos Web Panel | : | `bash <(curl centos7.panel.web.id/cwpanel/)`     |
+| VestaCP          | : | `bash <(curl centos7.panel.web.id/vestacp/)`     |
+| Lemp Stack       | : | `bash <(curl centos7.panel.web.id/lemp/)`        |
+| Kloxo - MR       | : | `bash <(curl centos7.panel.web.id/kloxomr/)`     |
+| OpenVPN          | : | `bash <(curl centos7.panel.web.id/openvpn/)`     |
+| Virtualmin       | : | `bash <(curl centos7.panel.web.id/virtualmin/)`  |
+| VNC Server       | : | `bash <(curl centos7.panel.web.id/vnc/)`  		 |
 
 To look at the content of the script you can open them in the browser. 
 
