@@ -1,14 +1,12 @@
 # vps-script
 
-I was reading some thread on LET about what is the easiest panel installation, and I was also reading some guy signature about plexdrive(?). I was thinking I should made some 1 line easy installer.
-
-So I decided to post this.
+Here is a list of VPS Scripts that can be installed on centos7. The main reason for this repo is so people can install these scripts with only 1 line of command.
 
 ## Centos 7
 
 | Name             | : | Command                                             |
 |------------------|---|-----------------------------------------------------|
-| Centos Web Panel | : | `bash <(curl -s centos7.panel.web.id/cwp/)`         |
+| Centos Web Panel | : | `bash <(curl -s centos7.panel.web.id/cwpanel/)`     |
 | VestaCP          | : | `bash <(curl -s centos7.panel.web.id/vestacp/)`     |
 | Lemp Stack       | : | `bash <(curl -s centos7.panel.web.id/lemp/)`        |
 | Kloxo - MR       | : | `bash <(curl -s centos7.panel.web.id/kloxomr/)`     |
