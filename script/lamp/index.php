@@ -1,1 +1,0 @@
-yum -y install wget screen unzip ntpdate;wget --no-check-certificate -O lamp.zip https://github.com/teddysun/lamp/archive/master.zip;unzip lamp.zip;cd lamp-master;chmod +x *.sh;./lamp.sh
