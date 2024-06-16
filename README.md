@@ -1,19 +1,12 @@
 # vps-script
 
-Here is a list of VPS Scripts that can be installed on centos7. The main reason for this repo is so people can install these scripts with only 1 line of command.
+Here is a list of VPS Scripts that can be installed on Ubuntu. The main reason for this repo is so people can install these scripts with only 1 line of command.
 
 ## Centos 7
 
-| Name             | :   | Command                                         |
-| ---------------- | --- | ----------------------------------------------- |
-| Centos Web Panel | :   | `bash <(curl centos7.panel.web.id/cwpanel/)`    |
-| VestaCP          | :   | `bash <(curl centos7.panel.web.id/vestacp/)`    |
-| Lemp Stack       | :   | `bash <(curl centos7.panel.web.id/lemp/)`       |
-| Kloxo - MR       | :   | `bash <(curl centos7.panel.web.id/kloxomr/)`    |
-| Sentora          | :   | `bash <(curl centos7.panel.web.id/sentora/)`    |
-| Virtualmin       | :   | `bash <(curl centos7.panel.web.id/virtualmin/)` |
-| OpenVPN          | :   | `bash <(curl centos7.panel.web.id/openvpn/)`    |
-| VNC Server       | :   | `bash <(curl centos7.panel.web.id/vnc/)`        |
+| Name              | :   | Command                                                              |
+| ----------------- | --- | -------------------------------------------------------------------- |
+| VNC Server + XFCE | :   | `bash <(curl yokowasis.github.io/vps-script/script/desktop-xfce.sh)` |
 
 To look at the content of the script you can open them in the browser.
 
