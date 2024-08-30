@@ -2,10 +2,10 @@
 
 Here is a list of VPS Scripts that can be installed on Ubuntu. The main reason for this repo is so people can install these scripts with only 1 line of command.
 
-## Centos 7
+## Debian
 
-| Name              | :   | Command                                                              |
-| ----------------- | --- | -------------------------------------------------------------------- |
+| Name              | :   | Command                                                                      |
+| ----------------- | --- | ---------------------------------------------------------------------------- |
 | VNC Server + XFCE | :   | `bash <(curl https://yokowasis.github.io/vps-script/script/desktop-xfce.sh)` |
 | OpenVPN           | :   | `bash <(curl https://yokowasis.github.io/vps-script/script/openvpn.sh)`      |
 
