@@ -1,7 +1,7 @@
 #!/bin/sh
 
 apt update -y && apt upgrade -y
-apt install xfce4 xfce4-goodies tigervnc-standalone-server -y
+apt install xfce4 xfce4-goodies tigervnc-standalone-server dbus-x11 -y
 
 mkdir ~/.vnc
 echo '#!/bin/sh	                                                        '  > ~/.vnc/xstartup
