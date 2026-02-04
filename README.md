@@ -8,6 +8,7 @@ Here is a list of VPS Scripts that can be installed on Ubuntu. The main reason f
 | ----------------- | --- | ---------------------------------------------------------------------------- |
 | VNC Server + XFCE | :   | `bash <(curl https://yokowasis.github.io/vps-script/script/desktop-xfce.sh)` |
 | OpenVPN           | :   | `bash <(curl https://yokowasis.github.io/vps-script/script/openvpn.sh)`      |
+| Neovim            | :   | `bash <(curl https://yokowasis.github.io/vps-script/script/neovim.sh)`       |
 
 To look at the content of the script you can open them in the browser.
 
